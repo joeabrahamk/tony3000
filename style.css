@@ -79,15 +79,15 @@ body {
 
 
     .st1 {
-        width: 90%;
+        width: fit-content;
         margin:  0 0 0 0;
-        margin-right: 9%;
         align-self: center;
        
     }
 
     .st2 {
         gap: 2rem;
+        width: fit-content;
     }
 
     .butt {
