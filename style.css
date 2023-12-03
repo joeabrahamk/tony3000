@@ -67,7 +67,7 @@ body {
     font-size: 250%;
 }
 
-@media (max-width: 480px) {
+@media (max-width:768px)  {
     body{
         background-color: black;
     }
@@ -79,14 +79,14 @@ body {
     
 
     .st1 {
-        width: 90%;
+        width: 70%;
         margin: 5% 0;
     }
 
     .st2 {
         width: 100%;
         margin-left: 0;
-        margin-top: 130%;
+        margin-top: 150%;
         align-items: center;
         gap: 2rem;
     }
@@ -98,11 +98,6 @@ body {
     .box {
         font-size: 300%;
     }
-
-    .para {
-        font-size: 1.4rem;
-    }
-}
 
     .para {
         font-size: 1.4rem;
