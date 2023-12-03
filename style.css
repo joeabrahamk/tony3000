@@ -67,7 +67,7 @@ body {
     font-size: 250%;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 480px) {
     body{
         background-color: black;
     }
@@ -79,7 +79,7 @@ body {
     
 
     .st1 {
-        width: 80%;
+        width: 90%;
         margin: 5% 0;
     }
 
@@ -98,6 +98,11 @@ body {
     .box {
         font-size: 300%;
     }
+
+    .para {
+        font-size: 1.4rem;
+    }
+}
 
     .para {
         font-size: 1.4rem;
